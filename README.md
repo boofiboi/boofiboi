@@ -7,6 +7,4 @@
 - 📫 How to reach me: via. Discord: **boofi#4324** or email: **boofi@hrzn.email**
 - 😄 Pronouns: **shi/ba**
 - ⚡ Fun fact: **I currently have no will to live!**
-
-
-If you use any CSS frameworks dont @ me, I only work in standalone CSS, HTML, and JS.
+- 🎵 My favourite music band: **Sabaton and Powerwolf**
