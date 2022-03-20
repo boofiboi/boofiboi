@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Web Development and C!**
 - 👯 I’m looking to collaborate on **nothing!**
 - 💬 Ask me about **my life!**
-- 📫 How to reach me: via. Discord: **boofi#4324** or email: **boofi@hrzn.email**
+- 📫 How to reach me: via. Discord: **boofi#7734** or email: **boofi@hrzn.email**
 - 😄 Pronouns: **shi/ba**
 - ⚡ Fun fact: **I currently have no will to live!**
 - 🎵 My favourite music band: **Sabaton and Powerwolf**
