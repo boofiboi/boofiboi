@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Custom image host compatible with shareX and web uploading.** 
+- 🔭 I’m currently working on **Custom image host compatible with shareX and web uploading. | Website for my friend streamer (visit at https://qmot.cz)** 
 - 🌱 I’m currently learning **Web Development and C!**
 - 👯 I’m looking to collaborate on **Any part of the linux ecosystem, be it packages or the kernel itself**
 - 💬 Ask me about **my life!**
