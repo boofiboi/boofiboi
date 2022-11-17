@@ -12,7 +12,6 @@
 - 📫 How to reach me: via. Discord: **boofi#4375** or email: **boofi@qmot.cz**
 - 😄 Pronouns: **shi/ba**
 - ⚡ Fun fact: **I currently have no will to live!**
-- 🎵 My favourite music band: **Sabaton and Powerwolf**
 
 - Public Key: 
 ```-----BEGIN PGP PUBLIC KEY BLOCK-----
