@@ -6,10 +6,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on **killing myself**
-- 👯 I’m looking to collaborate on **Any part of the linux ecosystem, be it packages or the kernel itself**
-- 💬 Ask me about **my life!**
-- 📫 How to reach me: via. Discord: **boofi#4375** or email: **boofi@qmot.cz**
+- 🔭 I’m currently working on **Anything to do with FiveM developement.**
+- 📫 How to reach me: via. Discord: **boofi#4375**
 - 😄 Pronouns: **shi/ba**
 - ⚡ Fun fact: **I currently have no will to live!**
 
