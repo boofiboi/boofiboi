@@ -11,3 +11,6 @@
 - 😄 Pronouns: **shi/ba**
 - ⚡ Fun fact: **I currently have no will to live!**
 
+
+### Like my work? Support me here:
+https://paypal.me/boofiboi
