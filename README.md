@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on **Anything to do with FiveM developement.**
 - 📫 How to reach me: via. Discord: **boofiboi**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **oxmysql docs are garbage, but they work!**
+- ⚡ Fun fact: **In 2014 I was supposed to take part in a biathlon race, but I chickened out.**
 
 
 ### Like my work? Support me here:
