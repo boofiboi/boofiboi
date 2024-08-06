@@ -6,10 +6,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Anything to do with FiveM developement.**
+- 🔭 I’m currently working on: **A upcoming image host**
 - 📫 How to reach me: via. Discord: **boofiboi**
 - 😄 Pronouns: **he/him**
 
 
-### Like my work? Support me here:
-https://paypal.me/boofiboi
