@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-- My skills include: **Frontend development (PUG, HTML) and backend development (JS, PHP, Python). I also indulge in creating FiveM scripts.**
+- My skills include: **Frontend development (PUG, HTML,CSS, TailWindCSS) and backend development (JS, PHP, *Python*). I also indulge in creating FiveM scripts.**
 - 🔭 I’m currently working on: **A upcoming file hosting service.**
 - 📫 How to reach me: via. Discord: **boofiboi**
 - 😄 Pronouns: **he/him**
