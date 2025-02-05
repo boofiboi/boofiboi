@@ -6,14 +6,18 @@
 
 ### Hi there 👋
 
-- My skills include: **Frontend development (PUG, HTML,CSS, TailWindCSS) and backend development (JS, PHP). I also indulge in creating FiveM scripts.**
+- My skills include:
+ Full-stack development.
+ CFX script development (FiveM, RedM).
 
-#### Why I don't do React/Angular/Vue/Svelte etc.
-- I believe nothing compares to the pure speed of HTML + CSS + JS written by a human.
+#### What I work with:
 
+*Front-end*: **AngularJS**, **TailWindCSS**
 
-- 🔭 I’m currently working on: **A upcoming file hosting service.**
-- 📫 How to reach me: via. Discord: **boofiboi**
+*Back-end*: **Node.js**, **MongoDB**, **k8s**
+
+- 🔭 I’m currently working on: **An upcoming file hosting service.**
+- 📫 How to reach me: Discord: **boofiboi**/E-Mail: **boofi@qmot-pro.cz**
 - 😄 Pronouns: **he/him**
 
 
