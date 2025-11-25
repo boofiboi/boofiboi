@@ -16,7 +16,7 @@
 
 *Back-end*: **Node.js**, **MongoDB**, **k8s**
 
-- 🔭 I’m currently working on: **An upcoming file hosting service.**
+- 🔭 I’m currently working on: [Half-Life: Blue Shift RT](https://github.com/boofiboi/bshift-xash-rt)
 - 📫 How to reach me: Discord: **boofiboi**/E-Mail: **boofi@qmot-pro.cz**
 - 😄 Pronouns: **he/him**
 
