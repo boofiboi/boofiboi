@@ -16,7 +16,7 @@
 
 *Back-end*: **Node.js**, **MongoDB**, **k8s**
 
-- 🔭 I’m currently working on: [Ports of various Half-Life mods to a ray tracing engine called Xash-RT]([https://github.com/boofiboi/bshift-xash-rt](https://github.com/boofiboi/xash_rt_adaptations))
+- 🔭 I’m currently working on: [Ports of various Half-Life mods to a ray tracing engine called Xash-RT](https://github.com/boofiboi/xash_rt_adaptations)
 - 📫 How to reach me: Discord: **boofiboi**/E-Mail: **boofi@qmot-pro.cz**
 - 😄 Pronouns: **he/him**
 
