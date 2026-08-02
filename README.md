@@ -10,5 +10,5 @@
  Full-stack development.
  CFX script development (FiveM, RedM).
  C/C++ development.
- HLSL shader code.
+ HLSL shader development
 
