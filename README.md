@@ -9,15 +9,6 @@
 - My skills include:
  Full-stack development.
  CFX script development (FiveM, RedM).
-
-#### What I work with:
-
-*Front-end*: **AngularJS**, **TailWindCSS**
-
-*Back-end*: **Node.js**, **MongoDB**, **k8s**
-
-- 🔭 I’m currently working on: [Ports of various Half-Life mods to a ray tracing engine called Xash-RT](https://github.com/boofiboi/xash_rt_adaptations)
-- 📫 How to reach me: Discord: **boofiboi**/E-Mail: **boofi@qmot-pro.cz**
-- 😄 Pronouns: **he/him**
-
+ C/C++ development.
+ HLSL shader code.
 
