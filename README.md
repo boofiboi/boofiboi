@@ -4,11 +4,5 @@
 
 
 
-### Hi there 👋
-
-- My skills include:
- Full-stack development.
- CFX script development (FiveM, RedM).
- C/C++ development.
- HLSL shader development
-
+### elo
+- i do codes i guess?
